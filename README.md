@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning to Play 2048 (with Keras)
 
-Implementation of **deep Q-network** to play the **game 2048** using Keras, Keras-RL and OpenAI Gym.
+Implementation of **deep Q-network** (**reinforcement learning** with **deep neural networks** and **convolutional neural networks**) to play the **game 2048** using Keras, Keras-RL and OpenAI Gym.
 
 # Project Description
 This project implements an [intelligent agent](https://en.wikipedia.org/wiki/Intelligent_agent) to play the [game 2048](https://gabrielecirulli.github.io/2048/). In particular it uses a **reinforcement learning** approach (**Q-learning**) with different types of **deep learning** models (a **deep neural network** and 2 types of **convolutional neural networks**) to model the action-value function, i.e., to learn the control policies (movements on the 2048 grid) directly from the environment state (represented by the 2048 grid).\
