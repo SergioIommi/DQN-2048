@@ -1,0 +1,4 @@
+keras
+keras-rl
+gym
+matplotlib
